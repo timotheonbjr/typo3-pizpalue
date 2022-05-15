@@ -33,23 +33,23 @@ Introduction
 Preface
 =======
 
-This extension started as a distribution and is now a template serving as a base
-foundation for new websites. The former distribution part became to be a new
-distribution called `pizpalue_distribution` and can be downloaded from
+This extension began as a distribution and is now a template serving as a base
+foundation for new websites. As a distribution, it became a new
+one called `pizpalue_distribution` and can be downloaded from
 `the TYPO3 extension repository <https://extensions.typo3.org/extension/pizpalue_distribution>`__.
 
-What does it do?
+What it does
 ================
 
 The extension builds upon the extension `bootstrap_package from Benjamin Kott <https://extensions.typo3.org/extension/bootstrap_package>`__
 and serves as a base template for the creation of websites or
 `distributions <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ExtensionArchitecture/CreateNewDistribution/Index.html>`__
-using the `bootstrap framework <https://getbootstrap.com/>`__. As an example the
+using the `bootstrap framework <https://getbootstrap.com/>`__. The
 distribution `pizpalue_distribution <https://extensions.typo3.org/extension/pizpalue_distribution>`__
 uses this extension. A demo site can be visited `here <http://pizpalue.buechler.pro/das-plus/>`__.
 
-The extension extends and configures TYPO3 and selected extensions to provide
-better structured and attracting content while maintaining or improving speed
+This extension extends and configures TYPO3 and other selected extensions to provide
+better structured and attractive content while maintaining or improving speed
 and seo performance.
 
 It provides the following main features:
@@ -59,14 +59,14 @@ Easy website setup
 
 The extension `easyconf <https://extensions.typo3.org/extension/easyconf>`__
 has been configured to provide an easy way for non technical website owners
-to setup their website. The following is taken care of automatically:
+to set up their website. The following is taken care of automatically:
 
--  Domain related settings used in the content and site configuration
--  SEO related settings in the site configuration for "page not found",
+-  Domain-related settings used in the content and site configuration
+-  SEO-related settings in the site configuration for "page not found",
    `robots.txt` and `sitemap.xml`
--  News related configurations in site configuration
--  Logo and app icon configurations
--  Google font configurations
+-  News related configuration in site configuration
+-  Logo and app icon configuration
+-  Google font configuration
 
 .. figure:: ../Images/Introduction/Easyconf.jpg
    :width: 700px
@@ -77,7 +77,7 @@ to setup their website. The following is taken care of automatically:
 Arranging content
 -----------------
 
--  Page layouts allowing to add content in side columns with a menu
+-  Page layouts which allow adding content in side columns with a menu
 -  Support for structure elements provided by
    `container_elements <https://extensions.typo3.org/extension/container_elements>`__.
    Example structure elements are: columns, grid, accordion, tabs, card, tile unit
@@ -87,7 +87,7 @@ Enhancing content
 -----------------
 
 -  Support for automatic image scaling in structure elements (see :ref:`integration_templating`)
--  Content element fields to optimize image scaling dependent on the screen size.
+-  Content element fields to optimize image scaling based on the screen size.
 -  Content element fields to assign custom classes, styles and attributes
 
 Animating content
@@ -122,7 +122,7 @@ Various
 
 -  A menu to be fixed on the side (fastmenu)
 
-Discover more regarding the features on the `demo site <http://pizpalue.buechler.pro/das-plus/>`__.
+Find out more about the features on the `demo site <http://pizpalue.buechler.pro/das-plus/>`__.
 
 Screenshots
 ===========
@@ -175,7 +175,7 @@ News
 Credits
 =======
 
-This extension can be provided thanks to outstanding work from TYPO3 community members. A big thanks goes to:
+This extension is available thanks to outstanding work from the TYPO3 community members. Special thanks go to:
 
 -  Benjamin Kott, extension `bootstrap_package <https://extensions.typo3.org/extension/bootstrap_package>`__
 -  B13 GmbH, extension `container <https://extensions.typo3.org/extension/container>`__
